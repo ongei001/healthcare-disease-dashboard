@@ -17,5 +17,5 @@ The data used in this project was collected from Kaggle, providing comprehensive
 - seaborn
 
 ## How to Run
-1. Run `generate_data.py` to generate the required data.
-2. Run `dashboard.py` to view the dashboard.
+1. Run `african_healthcare_data.csv` to get the required data.
+2. Run `Health Care Analysis.py` to view the dashboard.
